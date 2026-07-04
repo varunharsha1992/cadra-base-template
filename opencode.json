@@ -8,7 +8,9 @@
         "baseURL": "http://localhost:8787/v1",
         "apiKey": "PASTE_CADRA_TOKEN_HERE"
       },
-      "models": { "cadra": { "name": "Cadra", "tools": true } }
+      "models": {
+        "cadra": { "name": "Cadra", "tools": true }
+      }
     }
   },
   "enabled_providers": ["cadra"],
