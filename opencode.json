@@ -5,7 +5,7 @@
       "npm": "@ai-sdk/openai-compatible",
       "name": "Cadra",
       "options": {
-        "baseURL": "http://localhost:8787/v1",
+        "baseURL": "https://proxy.cadra.info/v1",
         "apiKey": "PASTE_CADRA_TOKEN_HERE"
       },
       "models": {
